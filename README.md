@@ -29,8 +29,8 @@
 
 
 
-<ol style= "font-size:30 px;"><b>興趣:</b>
-<li><font size="5" color="orange">吃很多好吃的
+<ol style= "font-size:100 px;"><b>興趣:</b>
+<li><font size="7" color="orange">吃很多好吃的
 <li><font color="blue">找好吃的食物
 <li><font color="purple">花錢買好吃的東西
 <li><font color="red">想著等一下要吃甚麼好吃的
