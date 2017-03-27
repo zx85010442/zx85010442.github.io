@@ -1,6 +1,4 @@
-# zx85010442.github.io
-
-
+<html>
 <style>
 
   html {
@@ -22,21 +20,21 @@
 </head>
 <body background="http://s7d2.scene7.com/is/image/PetSmart/PB0101_HERO-SmallPet-Food-20160818?$sclp-banner-main_small$" percentage="30" >
 
+<center>
+<b>
+<p style= "font-size:25px;" >
+關於黃莎涴</b>
+</center>
+</p>
 
 
-<marquee style="font-size:25px"   direction="right" height="30" scrollamount="5" behavior="alternate" >
-<b  ><font face="fantasy">關於黃莎涴</b></marquee>
 
 
-
-<font  size="10" color="black"  type=disc > <font face="monospace"> 興趣:
-
-
-
-<li ><font size="10" color="orange">吃很多好吃的
-<li ><font color="blue">找好吃的食物
-<li ><font color="purple">花錢買好吃的東西
-<li ><font color="red">想著等一下要吃甚麼好吃的
-
+<ol style="color:black;"  type=disc; > <font face="monospace" size="5";><b>興趣:</b>
+<li><font size="8" color="orange">吃很多好吃的</li>
+<li><font color="blue">找好吃的食物</li>
+<li><font color="purple">花錢買好吃的東西</li>
+<li><font color="red">想著等一下要吃甚麼好吃的</li>
+</ol>
 </body>
-
+</html>
