@@ -1,6 +1,6 @@
 # zx85010442.github.io
 
-<html>
+
 <style>
 
   html {
@@ -39,4 +39,4 @@
 <li ><font color="red">想著等一下要吃甚麼好吃的
 
 </body>
-</html>
+
