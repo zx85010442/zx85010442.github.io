@@ -1,6 +1,5 @@
 # zx85010442.github.io
-About Me
-<!DOCTYPE html>
+
 <html>
 <style>
 
@@ -15,15 +14,6 @@ About Me
             background-position: center;
             background-size: cover;
         }
-
-
-body{
-li{
- font-size: 30px;
-}
-  h1 {
-    color: blue;
-  }
   
   
 </style>
@@ -39,12 +29,14 @@ li{
 
 
 
+<font  size="10" color="black"  type=disc > <font face="monospace"> 興趣:
 
-<ol  style=font-size:30px   type=disc > <font face="monospace"><b>興趣:</b>
-<li style=color:purple>吃很多好吃的
-<li style=color:orange>找好吃的食物
-<li style=color:blue>花錢買好吃的東西
-<li style=color:red>想著等一下要吃甚麼好吃的
-</ol>
+
+
+<li ><font size="10" color="orange">吃很多好吃的
+<li ><font color="blue">找好吃的食物
+<li ><font color="purple">花錢買好吃的東西
+<li ><font color="red">想著等一下要吃甚麼好吃的
+
 </body>
 </html>
