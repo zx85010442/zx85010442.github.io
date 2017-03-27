@@ -29,7 +29,7 @@
 
 
 
-<ol><b>興趣:</b>
+<ol style= "font-size:20px;"><b>興趣:</b>
 <li><font size="8" color="orange">吃很多好吃的
 <li><font color="blue">找好吃的食物
 <li><font color="purple">花錢買好吃的東西
