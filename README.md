@@ -14,15 +14,15 @@
         }
   
 h3{
-  front-size:10;
+  front-size:5;
   color:black;
   }
   h4{
-  front-size:10;
+  front-size:3;
   color:black;
   }
   div{
-  front-size:10;
+  front-size:3;
   color:black;
   }
 </style>
@@ -32,9 +32,9 @@ h3{
 <body background="http://s7d2.scene7.com/is/image/PetSmart/PB0101_HERO-SmallPet-Food-20160818?$sclp-banner-main_small$" percentage="30" >
 
 <b>
-<p style= "font-size:35px;" >
+<h1 style= "font-size:35px;" >
 關於黃莎涴
-</p>
+</h1>
 <h2 style= "font-size:25px;" >
 興趣:
 </h2>
@@ -62,7 +62,7 @@ $("body").addClass("animated hinge");
   });
 </script>
 <div class="container-fluid">
-  <h3 class="text-primary text-center">傳送門</h3>
+ 
   <div class="row">
     <div class="col-xs-6">
       <h4>關於美食</h4>
