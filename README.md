@@ -14,15 +14,15 @@
         }
   
 h3{
-  front-size:20;
+  front-size:10;
   color:black;
   }
   h4{
-  front-size:20;
+  front-size:10;
   color:black;
   }
   div{
-  front-size:20;
+  front-size:10;
   color:black;
   }
 </style>
@@ -35,9 +35,9 @@ h3{
 <p style= "font-size:35px;" >
 關於黃莎涴
 </p>
-<p style= "font-size:25px;" >
+<h2 style= "font-size:25px;" >
 興趣:
-</p>
+</h2>
 
 
 
