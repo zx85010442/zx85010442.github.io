@@ -49,28 +49,13 @@
     $(".target:nth-child(2)").addClass("animated bounce");
     $(".target:even").addClass("animated shake");
 $("body").addClass("animated hinge");
-  });
-
-<!-- Only change code above this line. -->
-<script type="Text/JavaScript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
-<script type='text/javascript'>
-$(function(){
-$("#clickme").click(function(){
-$("#test").toggle();
-});
- });
-</script>
+  })
 
 
-<div id="clickme">點我吧!</div>
-<div id="test">
-我是莎涴 , 你看到了嗎?
-</div>
 <div class="container-fluid">
-  <h3 class="text-primary text-center">jQuery Playground</h3>
   <div class="row">
     <div class="col-xs-6">
-      <h4>#left-well</h4>
+    
       <div class="well" id="left-well">
         <button class="btn btn-default target" id="target1">美食網站</button>
         <button class="btn btn-default target" id="target2">Google Map</button>
