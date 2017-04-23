@@ -13,7 +13,18 @@
             background-size: cover;
         }
   
-  
+h3{
+  front-size:20;
+  color:black;
+  }
+  h4{
+  front-size:20;
+  color:black;
+  }
+  div{
+  front-size:20;
+  color:black;
+  }
 </style>
 <head>
 
@@ -35,7 +46,6 @@
 <li><font color="blue">找好吃的食物
 <li><font color="purple">花錢買好吃的東西
 <li><font color="red">想著等一下要吃甚麼好吃的
-
 <script>
   $(document).ready(function() {
     $("#target1").css("color", "red");
@@ -60,7 +70,7 @@ $("body").addClass("animated hinge");
         <button class="btn btn-default target" id="target1">美食網站</button>
         <button class="btn btn-default target" id="target2">Google Map</button>
         <button class="btn btn-default target" id="target3">食譜網站</button>
-      </div>
+    
     </div>
    
     </div>
