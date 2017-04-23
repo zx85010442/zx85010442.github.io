@@ -55,8 +55,8 @@ $("body").addClass("animated hinge");
 <div class="container-fluid">
   <div class="row">
     <div class="col-xs-6">
-    
-      <div class="well" id="left-well">
+    <h4>#right-well</h4>
+    <div class="well" id="left-well">
         <button class="btn btn-default target" id="target1">美食網站</button>
         <button class="btn btn-default target" id="target2">Google Map</button>
         <button class="btn btn-default target" id="target3">食譜網站</button>
