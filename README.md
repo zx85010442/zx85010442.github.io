@@ -12,20 +12,15 @@
             background-position: center;
             background-size: cover;
         }
-  
-h3{
-  front-size:5;
-  color:black;
-  }
-  h4{
-  front-size:3;
-  color:black;
-  }
+
   div{
   front-size:3;
   color:black;
   }
+  
 </style>
+
+
 <head>
 
 </head>
@@ -41,7 +36,7 @@ h3{
 
 
 
-<ol style= "font-size:8;">
+<ol style= "font-size:2;">
 <li><font size="7" color="orange">吃很多好吃的
 <li><font color="blue">找好吃的食物
 <li><font color="purple">花錢買好吃的東西
@@ -50,6 +45,10 @@ h3{
 <div class="container-fluid">
   <div class="row">
     <div class="col-xs-6">
+    <p>    </p>
+    <p>    </p>
+    <p>    </p>
+    <p>    </p>
       <input type="button" id="button1" value="美食網站" onclick="window.location='https://tw.openrice.com/zh/taipei';" />
       <input type="button" id="button2" value="Google Map" onclick="window.location='https://www.google.com.tw/maps';" />
       <input type="button" id="button3" value="食譜網站" onclick="window.location='https://icook.tw/';" />
