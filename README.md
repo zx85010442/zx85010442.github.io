@@ -59,20 +59,20 @@
         $("#button2").css("background", "white");
       });
       $("#button3").mouseenter(function(){
-        $("#button3").css("color", "white");
-        $("#button3").css("background", "yellow");
+        $("#button3").css("color", "yellow");
+        $("#button3").css("background", "black");
       });
       $("#button1").mouseout(function(){
         $("#button1").css("color", "white");
-        $("#button1").css("background", "worange");
+        $("#button1").css("background", "orange");
       });
        $("#button2").mouseout(function(){
         $("#button2").css("color", "white");
         $("#button2").css("background", "green");
       });
        $("#button3").mouseout(function(){
-        $("#button3").css("color", "orange");
-        $("#button3").css("background", "white");
+        $("#button3").css("color", "yellow");
+        $("#button3").css("background", "black");
       });
       $("jump").addClass("animated bounce");
     });
