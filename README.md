@@ -44,37 +44,37 @@
 <script type='text/javascript' src='https://code.jquery.com/jquery-1.9.1.min.js'></script>
 <script type='text/javascript'>
  $(document).ready(function() {
-     $("#button1").css("color", "blue");
-     $("#button1").css("background", "white");
-    $("#button2").css("color", "red");
-    $("#button2").css("background", "white");
-    $("#button3").css("color", "green");
-    $("#button3").css("background", "white");
+     $("#button1").css("color", "white");
+     $("#button1").css("background", "orange");
+    $("#button2").css("color", "white");
+    $("#button2").css("background", "green");
+    $("#button3").css("color", "black");
+    $("#button3").css("background", "yellow");
       $("#button1").mouseenter(function(){
-        $("#button1").css("color", "white");
-        $("#button1").css("background", "blue");
+        $("#button1").css("color", "orange");
+        $("#button1").css("background", "white");
       });
        $("#button2").mouseenter(function(){
-        $("#button2").css("color", "white");
-        $("#button2").css("background", "red");
+        $("#button2").css("color", "green");
+        $("#button2").css("background", "white");
       });
       $("#button3").mouseenter(function(){
         $("#button3").css("color", "white");
-        $("#button3").css("background", "green");
+        $("#button3").css("background", "yellow");
       });
       $("#button1").mouseout(function(){
-        $("#button1").css("color", "blue");
-        $("#button1").css("background", "white");
+        $("#button1").css("color", "white");
+        $("#button1").css("background", "worange");
       });
        $("#button2").mouseout(function(){
-        $("#button2").css("color", "red");
-        $("#button2").css("background", "white");
+        $("#button2").css("color", "white");
+        $("#button2").css("background", "green");
       });
        $("#button3").mouseout(function(){
-        $("#button3").css("color", "green");
+        $("#button3").css("color", "orange");
         $("#button3").css("background", "white");
       });
-      $("uuu").addClass("animated bounce");
+      $("jump").addClass("animated bounce");
     });
   </script>
 <div class="container-fluid">
