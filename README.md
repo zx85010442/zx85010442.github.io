@@ -46,33 +46,13 @@ h3{
 <li><font color="blue">找好吃的食物
 <li><font color="purple">花錢買好吃的東西
 <li><font color="red">想著等一下要吃甚麼好吃的
-<script>
-  $(document).ready(function() {
-    $("#target1").css("color", "red");
-    $("#target1").prop("disabled", true);
- 
-    $("#target2").appendTo("#right-well");
-  
-    $("#target1").parent().css("background-color", "red");
-  
-    $("#left-well").children().css("color", "green");
-    $(".target:nth-child(2)").addClass("animated bounce");
-    $(".target:even").addClass("animated shake");
-$("body").addClass("animated hinge");
-  });
-</script>
+
 <div class="container-fluid">
- 
   <div class="row">
     <div class="col-xs-6">
-      <h4>關於美食</h4>
-      <div class="well" id="left-well">
-        <button class="btn btn-default target" id="target1">美食網站</button>
-        <button class="btn btn-default target" id="target2">Google Map</button>
-        <button class="btn btn-default target" id="target3">食譜網站</button>
-    
-    </div>
-   
-    </div>
+      <input type="button" id="button1" value="美食網站" onclick="window.location='https://tw.openrice.com/zh/taipei';" />
+      <input type="button" id="button2" value="Google Map" onclick="window.location='https://www.google.com.tw/maps';" />
+      <input type="button" id="button3" value="食譜網站" onclick="window.location='https://icook.tw/';" />
+      </div>
+    </div>  
   </div>
-</div>
