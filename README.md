@@ -71,8 +71,8 @@
         $("#button2").css("background", "green");
       });
        $("#button3").mouseout(function(){
-        $("#button3").css("color", "yellow");
-        $("#button3").css("background", "black");
+        $("#button3").css("color", "black");
+        $("#button3").css("background", "yellow");
       });
       $("jump").addClass("animated bounce");
     });
